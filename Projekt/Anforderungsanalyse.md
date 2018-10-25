@@ -41,6 +41,18 @@
 
 #### Detailbeschreibung
 
+##### Webanwendung
+
+- Desktopversion
+
+##### Datenbank
+
+- PostgreSQL
+
+##### Server
+
+- FH-Server
+
 ##### Seitenaufbau
 
 Es gibt zunächst eine Seite die mit Informationen zu dem Fragebogen gefüllt ist, das heißt welchen Zweck dieser erfüllt und wie viel Zeit die Bearbeitung in Anspruch nehmen wird. Am Ende enthält die Seite dann einen "Starten"-Button, welcher einen dann zu der eigentlichen Bearbeitung weiterleitet. (siehe Abbildung)
