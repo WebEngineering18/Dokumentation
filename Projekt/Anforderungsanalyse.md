@@ -89,3 +89,40 @@ Der Fragebogen an sich ist dann so strukturiert dass die Fragen in Kategorien ei
 
 ![UseCaseRelatedInformation](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/UseCaseRelatedInformation.png)
 
+
+
+#### User Stories
+
+###### Fragebogen starten
+
+- Als User möchte ich den Fragebogen über einen Button starten können, um diesen ausfüllen zu können
+
+
+
+###### Fragebogen bearbeiten
+
+- Als User möchte ich den Fragebogen über Bedienelemente ausfüllen, um an der Befragung zum Status der Bauqualität teilnehmen zu können
+
+
+
+###### Fragebogen abschicken
+
+- Als User möchte ich den Fragebogen absenden können, um die Daten dem IFB zu übermitteln
+
+
+
+###### Hilfe anzeigen
+
+- Als User möchte ich zu einigen Fragen Information erhalten, um die richtigen Antworten abzugeben
+- Als User möchte ich meinen Fortschritt immer im Blick haben, damit ich weiß wie viele Fragen noch zu bearbeiten sind
+
+
+
+###### Zwischen den Seiten navigieren
+
+- Als User sollte es mir möglich sein die letzte Seite nochmal aufzurufen, falls ich falsche Eingaben getätigt habe
+
+
+
+
+
