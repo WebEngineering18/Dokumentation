@@ -71,7 +71,20 @@ Der Fragebogen an sich ist dann so strukturiert dass die Fragen in Kategorien ei
 
 
 
+##### Funktionale Anforderungen
 
 
 
+###### Aktivitätsdiagramm
 
+![Aktivitätsdiagramm](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/Aktivit%C3%A4tsdiagramm.png)
+
+###### Use-Case Diagramm
+
+![UseCaseDiagram](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/UseCaseDiagram.png)
+
+###### Use-Case
+
+![UseCase](F:\Info\GitHub\WebEngineering\Dokumentation\Projekt\bilder\UseCase.png)
+
+![UseCaseRelatedInformation](F:\Info\GitHub\WebEngineering\Dokumentation\Projekt\bilder\UseCaseRelatedInformation.png)
