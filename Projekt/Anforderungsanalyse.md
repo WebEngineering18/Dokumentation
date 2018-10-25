@@ -85,6 +85,6 @@ Der Fragebogen an sich ist dann so strukturiert dass die Fragen in Kategorien ei
 
 ###### Use-Case
 
-![UseCase](F:\Info\GitHub\WebEngineering\Dokumentation\Projekt\bilder\UseCase.png)
+![UseCase](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/UseCase.png)
 
-![UseCaseRelatedInformation](F:\Info\GitHub\WebEngineering\Dokumentation\Projekt\bilder\UseCaseRelatedInformation.png)
+![UseCaseRelatedInformation](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/UseCaseRelatedInformation.png)
