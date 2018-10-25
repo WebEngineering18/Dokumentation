@@ -43,15 +43,15 @@
 
 ##### Webanwendung
 
-- Desktopversion
+- Die Anwendung muss über alle gängigen Browser darstellbar sein
 
 ##### Datenbank
 
-- PostgreSQL
+- Die Datenbank wird in PostgreSQL realisiert 
 
 ##### Server
 
-- FH-Server
+- Der Fragebogen muss am Ende über den FH-Server laufen
 
 ##### Seitenaufbau
 
