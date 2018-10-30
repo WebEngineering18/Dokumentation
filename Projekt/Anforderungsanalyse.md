@@ -116,6 +116,10 @@ Der Fragebogen an sich ist dann so strukturiert, dass die Fragen in Kategorien e
 
 
 
+#### Klassendiagramm
+
+![Class Diagram](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/Class%20Diagram.png)
+
 #### Entity-relationship model
 
 ![ERM](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/ERM.png)
