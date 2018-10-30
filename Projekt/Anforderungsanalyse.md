@@ -102,6 +102,12 @@ Der Fragebogen an sich ist dann so strukturiert, dass die Fragen in Kategorien e
 
 ![Component Diagram](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/Component%20Diagram.png)
 
+
+
+#### Entity-relationship model
+
+![ERM](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/ERM.png)
+
 #### User Stories
 
 ###### Informationen erhalten
