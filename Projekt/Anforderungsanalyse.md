@@ -41,10 +41,22 @@
 
 #### Nichtfunktionale Anforderungen
 
-- Die Seite soll einfach gestaltet und intuitiv nutzbar sein.
+##### Usability
+
+- Die Seite soll einfach gestaltet und intuitiv nutzbar sein (Übersichtlichkeit). 
 - Die Erledigung des Fragebogens sollte nicht viel Zeit in Anspruch nehmen (10 - 15 Minuten).
 
+##### Zuverlässigkeit
 
+- Es muss gewährleistet werden, dass die Daten richtig in der Datenbank abgespeichert werden, da dies essentiell für die Auswertung des Fragebogens ist.
+
+##### Erreichbarkeit
+
+- Die Webanwendung sollte von jedem Rechner mit Internetzugang benutzbar sein.
+
+##### Geschwindigkeit
+
+- Der Wechsel zwischen den Seiten und die Eingabe über die Bedienelemente muss schnell vonstattengehen.
 
 #### Detailbeschreibung
 
