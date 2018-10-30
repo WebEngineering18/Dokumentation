@@ -98,7 +98,9 @@ Der Fragebogen an sich ist dann so strukturiert, dass die Fragen in Kategorien e
 
 ![UseCaseRelatedInformation](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/UseCaseRelatedInformation.png)
 
+#### Komponentendiagramm
 
+![Component Diagram](https://raw.githubusercontent.com/WebEngineering18/Dokumentation/Anforderungsanalyse/Projekt/bilder/Component%20Diagram.png)
 
 #### User Stories
 
