@@ -82,7 +82,7 @@ Es gibt zunächst eine Seite die mit Informationen zu dem Fragebogen gefüllt is
 
 
 
-Der Fragebogen an sich ist dann so strukturiert, dass die Fragen in Kategorien eingeordnet sind und eine Seite dann eine Kategorie mit den jeweiligen Fragen beinhaltet. Die Kategorie steht oben links auf der Seite und die Fragen werden dann untereinander mit den Antwortmöglichkeiten abgebildet. Gegenüber von der Kategorie gibt es noch eine Fortschrittsanzeige, damit der User immer weiß wie viel er noch bearbeiten muss. Abschließend enthält die Seite unten links einen Button "Zurück", um die letzte Seite nochmal aufzurufen und einen Button "Weiter" unten rechts, um auf die nächste Seite zu springen beziehungsweise "Absenden", wenn man die letzte Seite erreicht hat und bereit ist den Fragebogen abzuschicken. (siehe Abbildung)
+Der Fragebogen an sich ist dann so strukturiert, dass die Fragen in Kategorien eingeordnet sind und eine Seite dann eine Kategorie mit den jeweiligen Fragen beinhaltet. Die Kategorie steht oben links auf der Seite und die Fragen werden dann untereinander mit den Antwortmöglichkeiten abgebildet. Gegenüber von der Kategorie gibt es noch eine Fortschrittsanzeige, damit der User immer weiß wie viel er noch bearbeiten muss. Abschließend enthält die Seite unten links einen Button "Zurück", um die letzte Seite nochmal aufzurufen und einen Button "Weiter" unten rechts, um auf die nächste Seite zu springen beziehungsweise "Absenden", wenn man die letzte Seite erreicht hat und bereit ist den Fragebogen abzuschicken(siehe Abbildung). 
 
 
 
